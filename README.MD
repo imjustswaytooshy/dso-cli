@@ -57,7 +57,7 @@ To install Psang using PowerShell, follow these steps:
    Execute the following command in your PowerShell window:
 
    ```powershell
-   powershell -c "irm https://raw.githubusercontent.com/imjustprism/psang/main/psang-install.ps1 | iex"
+   powershell -c "irm https://raw.githubusercontent.com/imjustprism/psang/master/psang-install.ps1 | iex"
 
 To uninstall Psang using PowerShell, follow these steps:
 
@@ -71,4 +71,4 @@ To uninstall Psang using PowerShell, follow these steps:
    Execute the following command in your PowerShell window:
 
    ```powershell
-   powershell -c "irm https://raw.githubusercontent.com/imjustprism/psang/main/psang-uninstall.ps1 | iex"
+   powershell -c "irm https://raw.githubusercontent.com/imjustprism/psang/master/psang-uninstall.ps1 | iex"
