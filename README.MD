@@ -2,7 +2,7 @@
 
 **Psang** is a powerful and versatile command-line tool designed to streamline various system operations and boost your productivity. Whether you need to manage processes, optimize system performance, or simply get help on available commands, Psang has you covered.
 
-![Psang Banner](https://github.com/imjustprism/psang/blob/main/assets/banner.png?raw=true)
+![Psang Banner](https://github.com/imjustprism/psang/blob/main/assets/banner.png?raw=true) (dsoon)
 
 ## 📖 Table of Contents
 
