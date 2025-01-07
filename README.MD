@@ -66,7 +66,7 @@ To uninstall Psang using PowerShell, follow these steps:
    - Press `Win + X` and select **Windows PowerShell (Admin)**.
    - Alternatively, search for "PowerShell" in the Start menu, right-click on **Windows PowerShell**, and choose **Run as administrator**.
 
-2. **Run the Installation Command** 📥:
+2. **Run the Un-installation Command** 📥:
 
    Execute the following command in your PowerShell window:
 
